@@ -29,7 +29,7 @@ Workarounds: N/A
 Description: GPU usage increases abnormaly when looking at certain UI screens with 3D model previews.  
 Steps to Reproduce: View the death screen or infantry / vehicle loadout screen.  
 Workarounds: N/A  
-Notes: FPS seems to have nothing to do with this as limiting it seems to have no effect with is bizzare.  
+Notes: FPS seems to have nothing to do with this as limiting it seems to have no effect which is bizzare.  
 
 ## Random Crashes
 Description: Game crashes randomly. Could be as soon as loading in sanctuary or randomly during an extended play session.  
