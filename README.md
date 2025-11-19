@@ -48,8 +48,8 @@ Workarounds: N/A
 
 ## Hitmarker and Reload Indicator Offset
 Description: Hitmarker and reload indicator are offset.  
-Steps to Reproduce: Change the resolution from native monitor resolution to other random resolutions until the bug is reproduced.  
-Workarounds: Don't change the resolution in-game.  
+Steps to Reproduce: While in infantry FPS view, change in-game resolution to any other resolution.  
+Workarounds: Don't change the resolution in-game while in the infantry FPS view.  
 Notes: Picture needed.  
 
 ## Volume Sliders Reset on Game Restart
