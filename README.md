@@ -42,7 +42,7 @@ Steps to Reproduce: Play the game for 3 - 6 hours.
 Workarounds: Restarting the game fixes it.  
 
 ## Titles Not Being Equipped
-Description: Titles are not being equipped despite owning them. I can only equip the title I recently obtained called "Bushwasher". As soon as a title is selected, it reverts back when changing UI screens.  
+Description: Titles are not being equipped despite owning them. I can only equip the title I recently obtained called "Bushwacker". As soon as a title is selected, it reverts back when changing UI screens.  
 Steps to Reproduce: Equip a title.  
 Workarounds: N/A  
 
