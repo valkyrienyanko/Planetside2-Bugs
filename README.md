@@ -20,9 +20,9 @@ Description: Can't deploy constructions anywhere.
 Steps to Reproduce: Unknown.  
 Workarounds: Relog.  
 
-## Dead Enemy Collision Boxes
-Description: Dead enemy bodys have collision boxes you can't walk through.  
-Steps to Reproduce: Walk over a dead enemy body.  
+## Body Collision Boxes
+Description: All dead enemy (and dead AND alive NSO ally) bodies have collision boxes you can't walk through.  
+Steps to Reproduce: Walk over a dead enemy (or dead OR alive NSO ally) body.  
 Workarounds: N/A  
 
 ## Unusual Increase of GPU Usage
