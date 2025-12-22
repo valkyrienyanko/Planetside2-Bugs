@@ -26,7 +26,7 @@ Steps to Reproduce: Walk over a dead enemy (or dead OR alive NSO ally) body.
 Workarounds: N/A  
 
 ## Unusual Increase of GPU Usage
-Description: GPU usage increases abnormaly when looking at certain UI screens with 3D model previews.  
+Description: GPU usage increases abnormaly when looking at certain UI screens with 3D model previews. Not only does this happen in Planetside 2 but also 7 Days to Die when looking at the traders popup UI.   
 Steps to Reproduce: View the death screen or infantry / vehicle loadout screen.  
 Workarounds: N/A  
 Notes: FPS seems to have nothing to do with this as limiting it seems to have no effect which is bizzare.  
